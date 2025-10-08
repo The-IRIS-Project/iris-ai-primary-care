@@ -31,11 +31,15 @@ Looking for partners, funders, and collaborators at the intersection of machine 
 ### 📫 Contact
 
 **Cat Halliwell**  
-Director of Operations, IRIS  
+Director of Operations, IRIS | CU Anschutz 
 cat.halliwell@cuanschutz.edu 
 
 **Jill VanWyk, MD**  
-Principal Investigator, IRIS  
+Principal Investigator, IRIS | CU Anschutz 
 jill.vanwyk@cuanschutz.edu
+
+**Elisabeth Callen, PhD, PStat**
+Director of Analytics, IRIS | DARTNet Institute
+elisabeth.callen@dartnet.info
 
 *IRIS is based at the University of Colorado Anschutz Medical Campus and funded by the School of Medicine Dean’s Office.*
