@@ -38,7 +38,7 @@ cat.halliwell@cuanschutz.edu
 Principal Investigator, IRIS | CU Anschutz 
 jill.vanwyk@cuanschutz.edu
 
-**Elisabeth Callen, PhD, PStat**
+**Elisabeth Callen, PhD, PStat**  
 Director of Analytics, IRIS | DARTNet Institute
 elisabeth.callen@dartnet.info
 
